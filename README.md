@@ -26,7 +26,7 @@ Sitio web estático desarrollado con HTML y CSS, versionado con Git y empaquetad
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/<TU_USUARIO>/tp1-git-docker.git
+   git clone https://github.com/Alanemanuel16/tp1-git-docker
    cd tp1-git-docker
    ```
 
