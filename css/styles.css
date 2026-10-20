@@ -15,3 +15,4 @@ main { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
 section { background: #fff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.1); margin-bottom: 1.5rem; }
 h2 { margin-bottom: .75rem; color: #1f3a5f; }
 footer { text-align: center; padding: 1rem; color: #666; }
+ul { margin-left: 1.5rem; }
