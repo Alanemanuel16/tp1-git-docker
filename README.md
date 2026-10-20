@@ -50,6 +50,9 @@ Para detener y eliminar el contenedor:
 docker stop tp1-sitio && docker rm tp1-sitio
 ```
 
+"Alternativa elegida para la parte 1:Sitio web estatico (HTML Y CSS)"
+
+
 ## Autor
 
 Alan Emanuel Arraygada
