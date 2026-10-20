@@ -1,6 +1,6 @@
 # TP N° 1 – Git y Docker: Sitio web estático
 
-Sitio web estático desarrollado con HTML y CSS, versionado con Git y empaquetado en una imagen Docker que lo sirve mediante Nginx. Trabajo práctico de Alan Emanuel Arraygada (2C 2026).
+Sitio web estático hecho con HTML y CSS. Se usa Git para el control de versiones y se empaqueta en una imagen Docker. Nginx lo sirve. Trabajo práctico de Alan Emanuel Arraygada (2C 2026).
 
 ## Tecnologías y requisitos
 
